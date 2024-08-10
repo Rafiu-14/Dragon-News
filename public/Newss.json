@@ -1,0 +1,477 @@
+[
+    {
+        "_id": "bd1e3a6c5f524eb79963a92f2915b5c1",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+        },
+        "category_id": "1",
+        "rating": { "number": 4.7, "badge": "Outstanding" },
+        "total_view": 1200,
+        "title": "Political Turmoil in Bangladesh: Prime Minister Resigns Amidst Protests",
+        "author": {
+            "name": "International News Desk",
+            "published_date": "2024-08-05 15:00:00",
+            "img": "./author1.jpeg"
+        },
+        "thumbnail_url": "https://media.cnn.com/api/v1/images/stellar/prod/2024-08-05t184829z-2105365796-rc2l99a18sqr-rtrmadp-3-bangladesh-protests.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+        "image_url": "https://i.ibb.co/1Xtw3L0/bangladesh-political-turmoil-image.jpg",
+        "details": "Bangladesh, August 5, 2024 | Tags: Bangladesh, Protests, Political Turmoil, Sheikh Hasina, Military, Human Rights. Bangladesh's Prime Minister Sheikh Hasina has resigned and fled the country amidst massive protests demanding the end of a controversial quota system for government jobs. The unrest has claimed over 300 lives since mid-July, prompting the military to form an interim government. International bodies have condemned the use of excessive force against protesters and called for accountability."
+    },
+    {
+        "_id": "cbf8d3a2a6c541eb9637b52f21515b9c",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "2",
+        "rating": { "number": 4.3, "badge": "Very Good" },
+        "total_view": 900,
+        "title": "UN Condemns Violence in Bangladesh, Calls for Immediate Cease",
+        "author": {
+            "name": "Human Rights Watch",
+            "published_date": "2024-08-06 09:30:00",
+            "img": "./author2.jpeg"
+        },
+        "thumbnail_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap24218390125876-2.jpg?c=16x9&q=w_1280,c_fill",
+        "image_url": "https://i.ibb.co/Pm62R1K/un-condemns-bangladesh-violence-image.jpg",
+        "details": "Bangladesh, August 6, 2024 | Tags: Bangladesh, Human Rights, UN, Violence, Protests. The UN has strongly condemned the ongoing violence in Bangladesh, urging the government to halt the use of excessive force against protesters. International pressure mounts as the country faces a critical political transition amidst widespread unrest."
+    },
+    {
+        "_id": "ed9a1f8b3c5e4f7d82ab6c9013d29e5f",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+        },
+        "category_id": "3",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 1100,
+        "title": "Internet Shutdown and Curfew Imposed in Bangladesh Amidst Turmoil",
+        "author": {
+            "name": "Global Insight",
+            "published_date": "2024-08-06 12:15:00",
+            "img": "./author3.jpeg"
+        },
+        "thumbnail_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap24212476069747.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+        "image_url": "https://i.ibb.co/2d5nSzb/bangladesh-internet-shutdown-image.jpg",
+        "details": "Bangladesh, August 6, 2024 | Tags: Bangladesh, Internet Shutdown, Curfew, Protests, Security Measures. In response to escalating protests and violence, authorities in Bangladesh have imposed a curfew and restricted internet access nationwide. These measures aim to restore order amidst widespread unrest and political uncertainty."
+    },
+    {
+        "_id": "a87b5d3f4e2f49c58723d3a1b8f94a20",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "4",
+        "rating": { "number": 4.6, "badge": "Excellent" },
+        "total_view": 950,
+        "title": "International Community Urges Dialogue in Bangladesh Crisis",
+        "author": {
+            "name": "Global Diplomacy Report",
+            "published_date": "2024-08-07 08:45:00",
+            "img": "./author4.jpeg"
+        },
+        "thumbnail_url": "https://images.hindustantimes.com/img/2024/08/05/550x309/ANI-20240805195-0_1722864779667_1722864809319.jpg",
+        "image_url": "https://i.ibb.co/YD5yGmQ/bangladesh-dialogue-image.jpg",
+        "details": "Bangladesh, August 7, 2024 | Tags: Bangladesh, Dialogue, Crisis, International Community, Political Transition. The international community, including major diplomatic bodies, has called for dialogue and peaceful resolution to the crisis in Bangladesh. Concerns over human rights violations and the need for inclusive governance have been emphasized amidst ongoing turmoil."
+    },
+    {
+        "_id": "f6c1bde2a3d1480fb9a4c59e7164f96b",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": false
+        },
+        "category_id": "5",
+        "rating": { "number": 4.4, "badge": "Very Good" },
+        "total_view": 850,
+        "title": "Bangladesh Economy Faces Challenges Amidst Political Instability",
+        "author": {
+            "name": "Economic Insights",
+            "published_date": "2024-08-07 13:20:00",
+            "img": "./author5.jpg"
+        },
+        "thumbnail_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap24217447342269.jpg?q=w_1110,c_fill/f_webp",
+        "image_url": "https://i.ibb.co/BtgyMn5/bangladesh-economy-challenges-image.jpg",
+        "details": "Bangladesh, August 7, 2024 | Tags: Bangladesh, Economy, Political Instability, Challenges. The political turmoil in Bangladesh has adversely affected the economy, with businesses facing disruptions and investor confidence declining. Economic analysts highlight the need for stability and reform to mitigate long-term economic impacts."
+    },
+    {
+        "_id": "efbe1c8e8f714bf198dd4102b44f1b12",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "6",
+        "rating": { "number": 4.2, "badge": "Good" },
+        "total_view": 800,
+        "title": "Bangladesh Police Launch Investigation Into Alleged Human Rights Abuses",
+        "author": {
+            "name": "Rights Now",
+            "published_date": "2024-08-08 10:00:00",
+            "img": "./author6.jpg"
+        },
+        "thumbnail_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap24218333581764.jpg?q=w_1110,c_fill/f_webp",
+        "image_url": "https://i.ibb.co/5cvsK5P/bangladesh-human-rights-abuses-image.jpg",
+        "details": "Bangladesh, August 8, 2024 | Tags: Bangladesh, Human Rights Abuses, Police Investigation. In response to allegations of human rights abuses during recent protests, Bangladesh police have launched an investigation. The move comes amidst international scrutiny and calls for accountability."
+    },
+    {
+        "_id": "da3fc1b6f5e94d47a82e7f193c1b5d9f",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+        },
+        "category_id": "7",
+        "rating": { "number": 4.8, "badge": "Outstanding" },
+        "total_view": 1300,
+        "title": "Bangladesh Faces Diplomatic Isolation as International Pressure Mounts",
+        "author": {
+            "name": "Diplomatic Review",
+            "published_date": "2024-08-09 11:30:00",
+            "img": "./author7.jpg"
+        },
+        "thumbnail_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2161933380.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+        "image_url": "https://i.ibb.co/2kvXj1J/bangladesh-diplomatic-isolation-image.jpg",
+        "details": "Bangladesh, August 9, 2024 | Tags: Bangladesh, Diplomatic Isolation, International Pressure, Crisis. Bangladesh faces increasing diplomatic isolation as international pressure mounts over the ongoing political crisis and human rights concerns. Key diplomatic relationships are strained amidst calls for dialogue and resolution."
+    },
+    {
+        "_id": "ac9d4e6f3b2e4562a81f7c2a9f96a51d",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "8",
+        "rating": { "number": 4.4, "badge": "Very Good" },
+        "total_view": 950,
+        "title": "Impact of Bangladesh Crisis on Regional Stability: Analysts Weigh In",
+        "author": {
+            "name": "Regional Insights",
+            "published_date": "2024-08-10 14:00:00",
+            "img": "./author1.jpeg"
+        },
+        "thumbnail_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2161935132.jpg?q=w_1110,c_fill/f_webp",
+        "image_url": "https://i.ibb.co/2cYKssK/bangladesh-regional-stability-image.jpg",
+        "details": "Bangladesh, August 10, 2024 | Tags: Bangladesh, Regional Stability, Impact, Crisis. Analysts discuss the impact of Bangladesh's political crisis on regional stability, highlighting concerns over cross-border implications and the need for coordinated international responses."
+    },
+    {
+        "_id": "ba5f8dc2a9e94a67b13f8d23bc2eac6c",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+        },
+        "category_id": "9",
+        "rating": { "number": 4.6, "badge": "Excellent" },
+        "total_view": 1050,
+        "title": "Bangladesh Court Orders Release of Political Prisoners Amidst Crisis",
+        "author": {
+            "name": "Legal Perspectives",
+            "published_date": "2024-08-11 09:45:00",
+            "img": "./author2.jpeg"
+        },
+        "thumbnail_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2161916210.jpg?q=w_1110,c_fill/f_webp",
+        "image_url": "https://i.ibb.co/30xQV7W/bangladesh-political-prisoners-image.jpg",
+        "details": "Bangladesh, August 11, 2024 | Tags: Bangladesh, Political Prisoners, Court Order, Crisis. In a significant legal development, a Bangladesh court has ordered the release of political prisoners amidst the ongoing political crisis. The decision aims to de-escalate tensions and foster dialogue."
+    },
+    {
+        "_id": "e8d7b6a5f4c24906b1a98c23e7b3fd8d",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "10",
+        "rating": { "number": 4.3, "badge": "Very Good" },
+        "total_view": 900,
+        "title": "Bangladesh Opposition Leaders Call for National Dialogue Amidst Crisis",
+        "author": {
+            "name": "Political Analysis",
+            "published_date": "2024-08-12 16:30:00",
+            "img": "./author3.jpeg"
+        },
+        "thumbnail_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2161897261.jpg?q=w_1110,c_fill/f_webp",
+        "image_url": "https://i.ibb.co/2N4ScPY/bangladesh-national-dialogue-image.jpg",
+        "details": "Bangladesh, August 12, 2024 | Tags: Bangladesh, Opposition, National Dialogue, Crisis. Opposition leaders in Bangladesh have called for a national dialogue to address the ongoing political crisis. The initiative seeks to find common ground and solutions amidst escalating tensions."
+    },
+    {
+        "_id": "c7f5a2b3e9d745c2baf9d1e8d1c8b5a2",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+        },
+        "category_id": "11",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 1100,
+        "title": "Bangladesh Faces Humanitarian Crisis Amidst Political Turmoil",
+        "author": {
+            "name": "Humanitarian Focus",
+            "published_date": "2024-08-13 11:00:00",
+            "img": "./author4.jpeg"
+        },
+        "thumbnail_url": "https://media.cnn.com/api/v1/images/stellar/prod/240107193443-02-bangladesh-election-010724.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+        "image_url": "https://i.ibb.co/QKmQ8w6/bangladesh-humanitarian-crisis-image.jpg",
+        "details": "Bangladesh, August 13, 2024 | Tags: Bangladesh, Humanitarian Crisis, Political Turmoil, Crisis. Bangladesh faces a growing humanitarian crisis amidst the political turmoil, with millions affected by violence, displacement, and shortages of essential supplies. Humanitarian organizations call for urgent aid and support."
+    },
+    {
+        "_id": "f2e9d1c8b6a5f4c297b1a98c3e7b3fd8",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "12",
+        "rating": { "number": 4.4, "badge": "Very Good" },
+        "total_view": 950,
+        "title": "Bangladesh Military Issues Statement on Role Amidst Political Crisis",
+        "author": {
+            "name": "Military Affairs",
+            "published_date": "2024-08-14 14:30:00",
+            "img": "./author5.jpg"
+        },
+        "thumbnail_url": "https://www.aljazeera.com/wp-content/uploads/2024/08/AP24218390125876-1722855653.jpg?dotviporig=true",
+        "image_url": "https://i.ibb.co/Jqc8X6B/bangladesh-military-role-image.jpg",
+        "details": "Bangladesh, August 14, 2024 | Tags: Bangladesh, Military, Political Crisis, Role. The Bangladesh military has issued a statement outlining its role amidst the ongoing political crisis, emphasizing stability, security, and support for a peaceful resolution."
+    },
+    {
+        "_id": "a1b8f4c2d3f9e5a6c4e2b4f7d89d1c01",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": false
+        },
+        "category_id": "13",
+        "rating": { "number": 4.6, "badge": "Excellent" },
+        "total_view": 1050,
+        "title": "Bangladesh Media Freedom Under Threat Amidst Political Unrest",
+        "author": {
+            "name": "Media Watch",
+            "published_date": "2024-08-15 12:00:00",
+            "img": "./author6.jpg"
+        },
+        "thumbnail_url": "https://www.aljazeera.com/wp-content/uploads/2024/08/GettyImages-2165137869-1722753098.jpg?resize=1170%2C780&quality=80",
+        "image_url": "https://i.ibb.co/0DJh3hR/bangladesh-media-freedom-image.jpg",
+        "details": "Bangladesh, August 15, 2024 | Tags: Bangladesh, Media Freedom, Political Unrest, Crisis. Media freedom in Bangladesh is under threat amidst the political unrest, with journalists facing intimidation, censorship, and restrictions on reporting. Press freedom advocates call for respect of journalistic rights and freedoms."
+    },
+    {
+        "_id": "e3b6a5f4c1b8f9d3e5a6c2d4f7d8c1a09",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "14",
+        "rating": { "number": 4.2, "badge": "Good" },
+        "total_view": 800,
+        "title": "Bangladesh Judiciary Faces Challenges Amidst Political Crisis",
+        "author": {
+            "name": "Judicial Review",
+            "published_date": "2024-08-16 15:30:00",
+            "img": "./author7.jpg"
+        },
+        "thumbnail_url": "https://www.aljazeera.com/wp-content/uploads/2024/08/12416758-1722753132.jpg?fit=1170%2C780&quality=80",
+        "image_url": "https://i.ibb.co/FBd0N4D/bangladesh-judiciary-challenges-image.jpg",
+        "details": "Bangladesh, August 16, 2024 | Tags: Bangladesh, Judiciary, Challenges, Political Crisis. The judiciary in Bangladesh faces significant challenges amidst the ongoing political crisis, with concerns over judicial independence, impartiality, and the rule of law. Legal experts call for safeguarding judicial integrity and upholding constitutional principles."
+    },
+    {
+        "_id": "c1b2a3d4e5f6g7h8i9j0k1l2m3n4o5p6",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+        },
+        "category_id": "15",
+        "rating": { "number": 4.6, "badge": "Excellent" },
+        "total_view": 1050,
+        "title": "Bangladesh Sees Surge in COVID-19 Cases Amidst Political Turmoil",
+        "author": {
+            "name": "Health Watch",
+            "published_date": "2024-08-17 10:00:00",
+            "img": "./author6.jpg"
+        },
+        "thumbnail_url": "https://www.aljazeera.com/wp-content/uploads/2024/08/AFP__20240803__369B7XH__v1__Preview__BangladeshUnrestStudentsProtest-1722753140.jpg?fit=1170%2C780&quality=80",
+        "image_url": "https://i.ibb.co/7YdNhGt/bangladesh-covid-surge-image.jpg",
+        "details": "Bangladesh, August 17, 2024 | Tags: Bangladesh, COVID-19, Surge, Political Turmoil, Crisis. Bangladesh experiences a sharp rise in COVID-19 cases amidst ongoing political turmoil, straining healthcare resources and response efforts. Health authorities mobilize to address the dual challenges of public health and civil unrest."
+    },
+    {
+        "_id": "q1w2e3r4t5y6u7i8o9p0a1s2d3f4g5h6",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "16",
+        "rating": { "number": 4.4, "badge": "Very Good" },
+        "total_view": 950,
+        "title": "Bangladesh Education System Disrupted Amidst Political Crisis",
+        "author": {
+            "name": "Education Insight",
+            "published_date": "2024-08-18 14:30:00",
+            "img": "./author5.jpg"
+        },
+        "thumbnail_url": "https://www.aljazeera.com/wp-content/uploads/2024/08/AP24216439415416-1722753188.jpg?fit=1170%2C780&quality=80",
+        "image_url": "https://i.ibb.co/qmD02kc/bangladesh-education-disruption-image.jpg",
+        "details": "Bangladesh, August 18, 2024 | Tags: Bangladesh, Education System, Disruption, Political Crisis, Schools. The education system in Bangladesh faces significant disruption amidst the ongoing political crisis, with schools and universities impacted by closures and safety concerns. Students and educators express concerns over the long-term impact on learning and development."
+    },
+    {
+        "_id": "zxcvbnmasdfghjklqwertyuiop123456",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+        },
+        "category_id": "17",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 1100,
+        "title": "Bangladesh Cultural Heritage Sites at Risk Amidst Political Unrest",
+        "author": {
+            "name": "Cultural Preservation",
+            "published_date": "2024-08-19 12:00:00",
+            "img": "./author3.jpeg"
+        },
+        "thumbnail_url": "https://www.aljazeera.com/wp-content/uploads/2024/08/AFP__20240802__367Z28T__v1__Preview__BangladeshUnrestStudentsProtest-1722753146.jpg?fit=1170%2C780&quality=80",
+        "image_url": "https://i.ibb.co/s30H3Bs/bangladesh-cultural-heritage-risk-image.jpg",
+        "details": "Bangladesh, August 19, 2024 | Tags: Bangladesh, Cultural Heritage, Risk, Political Unrest, Preservation. Bangladesh's cultural heritage sites face increased risk amidst political unrest, with concerns over vandalism, neglect, and damage during protests. Efforts to protect and preserve cultural landmarks intensify amid ongoing challenges."
+    },
+    {
+        "_id": "0987654321poiuytrewqlkjhgfdsamnbvcxz",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "18",
+        "rating": { "number": 4.3, "badge": "Very Good" },
+        "total_view": 900,
+        "title": "Bangladesh Wildlife Conservation Efforts Impacted by Political Crisis",
+        "author": {
+            "name": "Wildlife Watch",
+            "published_date": "2024-08-20 15:30:00",
+            "img": "./author2.jpeg"
+        },
+        "thumbnail_url": "https://www.aljazeera.com/wp-content/uploads/2024/08/AFP__20240803__368B43C__v1__Preview__BangladeshUnrestStudents-1722753194.jpg?fit=1170%2C780&quality=80",
+        "image_url": "https://i.ibb.co/n8yK3DH/bangladesh-wildlife-conservation-image.jpg",
+        "details": "Bangladesh, August 20, 2024 | Tags: Bangladesh, Wildlife Conservation, Political Crisis, Environment. Wildlife conservation efforts in Bangladesh face challenges amidst the political crisis, impacting habitats, protection measures, and conservation initiatives. Environmentalists call for sustainable practices and support amidst ongoing instability."
+    },
+    {
+        "_id": "mnbvcxzlkjhgfdsa0987654321poiuytre",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+        },
+        "category_id": "19",
+        "rating": { "number": 4.6, "badge": "Excellent" },
+        "total_view": 1050,
+        "title": "Bangladesh Faces Economic Challenges Amidst Political Instability",
+        "author": {
+            "name": "Economic Analysis",
+            "published_date": "2024-08-21 09:00:00",
+            "img": "./author1.jpeg"
+        },
+        "thumbnail_url": "https://www.aljazeera.com/wp-content/uploads/2024/08/AP24216439380932-1722753167.jpg?fit=1170%2C780&quality=80",
+        "image_url": "https://i.ibb.co/R4Sb1bP/bangladesh-economic-challenges-image.jpg",
+        "details": "Bangladesh, August 21, 2024 | Tags: Bangladesh, Economy, Economic Challenges, Political Instability. Bangladesh's economy faces significant challenges amidst ongoing political instability, with concerns over inflation, unemployment, and investor confidence. Economic analysts monitor developments closely amid efforts to stabilize the financial landscape."
+    },
+    {
+        "_id": "trewqpoiuy09876mnbvcxzlkjhgfdas54321",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "20",
+        "rating": { "number": 4.4, "badge": "Very Good" },
+        "total_view": 950,
+        "title": "Bangladesh Healthcare System Struggles Amidst Political Crisis",
+        "author": {
+            "name": "Health Insights",
+            "published_date": "2024-08-22 14:30:00",
+            "img": "./author2.jpeg"
+        },
+        "thumbnail_url": "https://www.aljazeera.com/wp-content/uploads/2024/08/AFP__20240802__368N9YB__v1__Preview__BangladeshUnrestStudentsProtest-1722753414.jpg?fit=1170%2C780&quality=80",
+        "image_url": "https://i.ibb.co/JBkVf42/bangladesh-healthcare-struggles-image.jpg",
+        "details": "Bangladesh, August 22, 2024 | Tags: Bangladesh, Healthcare System, Struggles, Political Crisis, Hospitals. The healthcare system in Bangladesh faces mounting challenges amidst the political crisis, with hospitals overwhelmed, medical supplies depleted, and healthcare workers under strain. Efforts to enhance healthcare resilience and support are underway amidst ongoing turmoil."
+    },
+    {
+        "_id": "zxcvbnmlkjhgfdqwertyuiop0987654321",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+        },
+        "category_id": "21",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 1100,
+        "title": "Bangladesh Technology Sector Adapts Amidst Political Uncertainty",
+        "author": {
+            "name": "Tech Trends",
+            "published_date": "2024-08-23 12:00:00",
+            "img": "./author3.jpeg"
+        },
+        "thumbnail_url": "https://www.aljazeera.com/wp-content/uploads/2024/08/AFP__20240803__369B8YZ__v1__HighRes__BangladeshUnrestStudentsProtest-1722682322.jpg?resize=770%2C513&quality=80",
+        "image_url": "https://i.ibb.co/c2wX0j1/bangladesh-technology-sector-image.jpg",
+        "details": "Bangladesh, August 23, 2024 | Tags: Bangladesh, Technology Sector, Adaptation, Political Uncertainty, Innovation. The technology sector in Bangladesh adapts to political uncertainty, with startups, tech firms, and digital initiatives navigating challenges to maintain operations and innovation. Technological resilience and digital transformation efforts gain prominence amidst ongoing disruptions."
+    },
+    {
+        "_id": "lkjhgfdsa098765mnbvcxzpoiuytrewq54321",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "22",
+        "rating": { "number": 4.3, "badge": "Very Good" },
+        "total_view": 900,
+        "title": "Bangladesh Sports Events Cancelled Amidst Political Unrest",
+        "author": {
+            "name": "Sports Update",
+            "published_date": "2024-08-24 15:30:00",
+            "img": "./author4.jpeg"
+        },
+        "thumbnail_url": "https://www.aljazeera.com/wp-content/uploads/2024/07/2024-07-18T131922Z_1838689420_RC2HX8AMZNSN_RTRMADP_3_BANGLADESH-PROTESTS-1722233261.jpg?resize=770%2C513&quality=80",
+        "image_url": "https://i.ibb.co/FHw1Vy1/bangladesh-sports-events-cancelled-image.jpg",
+        "details": "Bangladesh, August 24, 2024 | Tags: Bangladesh, Sports Events, Cancelled, Political Unrest, Athletes. Several sports events in Bangladesh are cancelled amidst ongoing political unrest, impacting athletes, fans, and the sports industry. Calls for stability and security prompt organizers to reassess future sports engagements."
+    },
+    {
+        "_id": "09876poiuytrewqlkjhgfdsamnbvcxz54321",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": false
+        },
+        "category_id": "23",
+        "rating": { "number": 4.6, "badge": "Excellent" },
+        "total_view": 1050,
+        "title": "Bangladesh Environmental Conservation Efforts Amidst Political Crisis",
+        "author": {
+            "name": "Environmental Watch",
+            "published_date": "2024-08-25 11:00:00",
+            "img": "./author5.jpg"
+        },
+        "thumbnail_url": "https://www.aljazeera.com/wp-content/uploads/2024/07/2024-07-19T135736Z_1858667889_RC26Y8AOEQ1G_RTRMADP_3_BANGLADESH-PROTESTS-1722381893.jpg?resize=770%2C513&quality=80",
+        "image_url": "https://i.ibb.co/qRNrTY9/bangladesh-environmental-conservation-image.jpg",
+        "details": "Bangladesh, August 25, 2024 | Tags: Bangladesh, Environmental Conservation, Political Crisis, Climate Change. Environmental conservation efforts in Bangladesh continue amidst the political crisis, focusing on sustainability, climate resilience, and ecosystem protection. Initiatives to mitigate environmental impacts gain momentum amidst ongoing challenges."
+    },
+    {
+        "_id": "09876lkjhgfdsaqwertyuiopmnbvcxz54321",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "24",
+        "rating": { "number": 4.4, "badge": "Very Good" },
+        "total_view": 950,
+        "title": "Bangladesh Religious Communities Advocate Peace Amidst Political Unrest",
+        "author": {
+            "name": "Interfaith Dialogue",
+            "published_date": "2024-08-26 13:30:00",
+            "img": "./author6.jpg"
+        },
+        "thumbnail_url": "https://www.aljazeera.com/wp-content/uploads/2024/07/AFP__20240728__36642YW__v1__HighRes__BangladeshUnrestStudentsProtest-1722174918.jpg?resize=770%2C513&quality=80",
+        "image_url": "https://i.ibb.co/1Rf2B8W/bangladesh-religious-peace-image.jpg",
+        "details": "Bangladesh, August 26, 2024 | Tags: Bangladesh, Religious Communities, Peace Advocacy, Political Unrest, Interfaith Dialogue. Religious communities in Bangladesh advocate for peace amidst political unrest, emphasizing unity, tolerance, and dialogue as essential for national reconciliation. Interfaith initiatives promote harmony and understanding amidst challenging times."
+    },
+    {
+        "_id": "lkjhgfdsa098765mnbvcxzpoiuytrewq12345",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+        },
+        "category_id": "25",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 1100,
+        "title": "Bangladesh Food Security Concerns Heighten Amidst Political Turmoil",
+        "author": {
+            "name": "Food Policy Review",
+            "published_date": "2024-08-27 10:00:00",
+            "img": "./author7.jpg"
+        },
+        "thumbnail_url": "https://www.aljazeera.com/wp-content/uploads/2024/07/2024-07-15T174852Z_127838722_RC2MN8AUCO1Q_RTRMADP_3_BANGLADESH-PROTESTS-1721691445.jpg?w=770&resize=770%2C513&quality=80",
+        "image_url": "https://i.ibb.co/d6rSkYY/bangladesh-food-security-image.jpg",
+        "details": "Bangladesh, August 27, 2024 | Tags: Bangladesh, Food Security, Concerns, Political Turmoil, Agriculture. Concerns over food security in Bangladesh escalate amidst political turmoil, impacting agriculture, supply chains, and access to nutritious food. Efforts to safeguard food systems and ensure food access gain urgency amidst ongoing challenges."
+    }
+]
